@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cymrc
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently building my website with html, css and javascript 
 - 💞️ I’m looking to collaborate on VS code 
 - 📫 How to reach me alextulen21@gmail.com
 - 😄 Pronouns: ...HE/HIM
