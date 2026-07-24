@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Alex John Tulen
 
-<!--
-**Cymrc/Cymrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information Technology student and a beginner developer** focused on learning the essentials of web development and building a solid foundation in programming. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 My Learning Journey
+- **🌱 I’m currently learning:** The fundamentals of HTML, CSS, and JavaScript.
+- **💻 Projects I'm building:** Creating responsive web pages, layouts, and simple web applications (like music playlists and travel pages).
+- **🚀 Goals:** To continuously improve my coding skills and learn how to build clean, functional software from scratch.
+
+### 🛠️ Tools & Tech I'm Working With
+- **Web Technologies:** HTML5, CSS3, JavaScript
+- **Operating Systems:** Windows & macOS
+- **Other Interests:** Exploring web design and Roblox game creation.
+
+### 💬 Let's Connect
+- 💬 **Ask me about:** The web projects I'm working on or what I'm learning in my IT classes!
