@@ -16,4 +16,6 @@ I am an **Information Technology student and a beginner developer** focused on l
 
 ### 💬 Let's Connect
 - 💬 **Ask me about:** The web projects I'm working on or what I'm learning in my IT classes!
-- 💬 **My Socials: ** LinkedIn:https://www.linkedin.com/in/alex-john-tulen-209043360/
+
+### My Socials
+- **LinkedIn** - https://www.linkedin.com/in/alex-john-tulen-209043360/
