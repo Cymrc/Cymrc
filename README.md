@@ -1,21 +1,24 @@
-# Hi there 👋 I'm Alex John Tulen
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-I am an **Information Technology student and a beginner developer** focused on learning the essentials of web development and building a solid foundation in programming. 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex John Tulen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/credxlcraft) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Cymrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Cymrc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cymrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cymrc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Cymrc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 My Learning Journey
-- **🌱 I’m currently learning:** The fundamentals of HTML, CSS, and JavaScript.
-- **💻 Projects I'm building:** Creating responsive web pages, layouts, and simple web applications (like music playlists and travel pages).
-- **🚀 Goals:** To continuously improve my coding skills and learn how to build clean, functional software from scratch.
-
-### 🛠️ Tools & Tech I'm Working With
-- **Web Technologies:** HTML5, CSS3, JavaScript
-- **Operating Systems:** Windows & macOS
-- **Other Interests:** Exploring web design and Roblox game creation.
-
-### 💬 Let's Connect
-- 💬 **Ask me about:** The web projects I'm working on or what I'm learning in my IT classes!
-
-### My Socials
-- **LinkedIn** - https://www.linkedin.com/in/alex-john-tulen-209043360/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
