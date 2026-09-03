@@ -1,10 +1,13 @@
-## HALLO YALL WELCOME TO MY GITHUB PROFILE 
+# ⚡ Hey there, I'm Alex! 👋
 
-# 💫 About Me:
-  I like to create apps and website
-  I like adobo
-  I'm Currently In Third Year
-  Making Capstone Soon
+```javascript
+const alex = {
+  role: "BSIT / Cybersecurity Student",
+  location: "Philippines 🇵🇭",
+  currentFocus: "Building Web Apps & Preparing for Capstone",
+  favoriteFood: "Adobo 🍲",
+  hobbies: ["Game Dev", "SaaS Projects", "Music Generation"]
+};
 
 
 ## 🌐 Socials:
