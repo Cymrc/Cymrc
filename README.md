@@ -1,5 +1,10 @@
+## HALLO YALL WELCOME TO MY GITHUB PROFILE 
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  I like to create apps and website
+  I like adobo
+  I'm Currently In Third Year
+  Making Capstone Soon
 
 
 ## 🌐 Socials:
