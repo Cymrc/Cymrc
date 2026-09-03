@@ -13,10 +13,10 @@ I'm Currently In Third Year
 Making Capstone Soon
 
 
-##
 
 
-## 🌐 Socials:
+
+## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-john-tulen/209043360/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/credxlcraft)
 
