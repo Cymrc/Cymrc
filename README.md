@@ -1,27 +1,16 @@
 ## HALLO YALL WELCOME TO MY GITHUB PROFILE
 
-
-
 # 💫 About Me:
 
-I like to create apps and website
-
-I like adobo
-
-I'm Currently In Third Year
-
-Making Capstone Soon
-
-
-
-
+I like to create apps and websites.  
+I like adobo.  
+I'm currently in my third year, making my Capstone soon!
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ajsrl)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AcredDevy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-john-tulen-209043360
-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/credxlcraft)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ajsrl) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AcredDevy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-john-tulen-209043360) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/credxlcraft)
 
 # 💻 Tech Stack:
 
@@ -35,13 +24,9 @@ Making Capstone Soon
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cymrc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cymrc&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -50,7 +35,4 @@ Making Capstone Soon
 [![](https://komarev.com/ghpvc/?username=Cymrc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/alexompj) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alexompj)
