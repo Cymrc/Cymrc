@@ -34,5 +34,6 @@ I'm currently in my third year, making my Capstone soon!
 ---
 [![](https://komarev.com/ghpvc/?username=Cymrc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+## ☕ Support My Work
+Buy me a coffee or help support my future projects!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alexompj)
